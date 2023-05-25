@@ -1,1 +1,1 @@
-# dc4_scrapping_pontanier_fernandez
+Exercice Python DC4 C - Hugo FERNANDEZ - Guillaume PONTANIER
